@@ -25,6 +25,7 @@ git clone https://github.com/EnzeZ05/Transformer-Summary-Ver2.0.git
 cd Transformer-Summary-Ver2.0
 pip install -r requirements.txt
 ```
+Then start creating and training!
 
 ---
 
