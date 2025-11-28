@@ -27,7 +27,7 @@ GRADIENT_ACCUMULATION = 16
 
 NUM_EPOCHS = 1
 LEARNING_RATE = 2e-4
-SAVE_DIR = "my-gpt2large-handwritten"
+SAVE_DIR = "summarizer"
 USE_AMP = True
 DROPOUT = 0.1
 
