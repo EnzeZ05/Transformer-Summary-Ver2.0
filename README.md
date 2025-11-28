@@ -22,8 +22,8 @@ A from-scratch PyTorch implementation of a GPT-2-style decoder (`ModernDecoder`)
 ## Install
 
 ```bash
-git clone https://github.com/EnzeZ05/autod1l-tmp1.git
-cd autod1l-tmp1
+git clone https://github.com/EnzeZ05/Transformer-Summary-Ver2.0.git
+cd Transformer-Summary-Ver2.0
 pip install -r requirements.txt
 ```
 
