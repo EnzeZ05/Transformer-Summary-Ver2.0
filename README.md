@@ -1,10 +1,11 @@
 # Handwritten GPT-2 Large Summarizer
 
-A from-scratch PyTorch implementation of a GPT-2-style decoder (`ModernDecoder`) plus scripts to:
+A project where I “dig GPT-2 Large’s brain (its weights) out” of the official Hugging Face model and plug it into my own handwritten Transformer (`ModernDecoder`), then:
 
-- load **gpt2-large** weights from Hugging Face  
-- fine-tune on an English summarization dataset  
-- generate summaries in different decoding modes (`safe / balanced / creative`)
+- load `gpt2-large` weights from Hugging Face  
+- train the transplanted brain on an English summarization dataset  
+- generate summaries in three decoding modes: `safe`, `balanced`, and `creative`
+
 
 ---
 
