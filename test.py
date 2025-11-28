@@ -10,7 +10,7 @@ import torch.nn.functional as F
 from transformers import AutoTokenizer
 import transformer
 
-CKPT_DIR = "my-gpt2large-handwritten"
+CKPT_DIR = "summarizer"
 BASE_MODEL_NAME = "gpt2-large"
 
 D_MODEL = 1280
