@@ -26,6 +26,8 @@ git clone https://github.com/EnzeZ05/autod1l-tmp1.git
 cd autod1l-tmp1
 pip install -r requirements.txt
 
+---
+
 ## Example
 
 Input:
@@ -51,6 +53,8 @@ The protagonist from the Japanese anime series "Summer Time Rendering", who arri
 CREATIVE SUMMARY:
 After being shot in the head by a mysterious person, a high school student named Shinpei Ajiro returns home to find his mother dead. He's forced to return to the island where he was born before he can save her life, and must fight off waves of shadow creatures while trying to keep up with his new friends and classmates.
 ==============================
+
+---
 
 ## Liscence
 MIT
