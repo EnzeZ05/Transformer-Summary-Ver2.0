@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ## Example
 
-Input:
+### Input:
 
 Hitogashima is a fictional island featured in the anime Summer Time Rendering.
 Shinpei Ajiro returns to the island for the funeral of his childhood friend Ushio Kofune.
@@ -38,7 +38,7 @@ Legends of "Shadows" mimicking humans circulate on the island.
 Shinpei encounters a Shadow that looks exactly like Ushio, and he gets shot in the head.
 Instead of dying, he travels back in time to the day he arrived on the island.
 
-ouput:
+### ouput:
 
 SAFE SUMMARY:
 A boy named Shinpei Ajiro arrives on a remote Japanese island to find out why his childhood friend died.
