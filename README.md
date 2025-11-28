@@ -25,12 +25,14 @@ A from-scratch PyTorch implementation of a GPT-2-style decoder (`ModernDecoder`)
 git clone https://github.com/EnzeZ05/autod1l-tmp1.git
 cd autod1l-tmp1
 pip install -r requirements.txt
+```
 
 ---
 
 ## Example
 
 Input:
+
 Hitogashima is a fictional island featured in the anime Summer Time Rendering.
 Shinpei Ajiro returns to the island for the funeral of his childhood friend Ushio Kofune.
 However, he discovers that Ushio's death might not have been an accident.
@@ -39,20 +41,15 @@ Shinpei encounters a Shadow that looks exactly like Ushio, and he gets shot in t
 Instead of dying, he travels back in time to the day he arrived on the island.
 
 ouput:
-==============================
+
 SAFE SUMMARY:
 A boy named Shinpei Ajiro arrives on a remote Japanese island to find out why his childhood friend died.
-==============================
 
-==============================
 BALANCED SUMMARY:
-The protagonist from the Japanese anime series "Summer Time Rendering", who arrives at the island to attend a funeral, finds himself transported back in time to the day he was born.
-==============================
+A boy named Shinpei Ajiro has returned from the future to find out why his best friend died.
 
-==============================
 CREATIVE SUMMARY:
-After being shot in the head by a mysterious person, a high school student named Shinpei Ajiro returns home to find his mother dead. He's forced to return to the island where he was born before he can save her life, and must fight off waves of shadow creatures while trying to keep up with his new friends and classmates.
-==============================
+The characters from the Japanese horror film Summer Time Rendering travel through time at the behest of a mysterious entity called a Shadows.
 
 ---
 
