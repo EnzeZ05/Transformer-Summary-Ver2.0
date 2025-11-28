@@ -1,9 +1,9 @@
 import os
 
-os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
-CACHE_DIR = "/root/autodl-fs/hf_cache"
-os.environ["TOKENIZERS_PARALLELISM"] = "false"
-os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
+# os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
+# CACHE_DIR = "/root/autodl-fs/hf_cache"
+# os.environ["TOKENIZERS_PARALLELISM"] = "false"
+# os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
 
 import contextlib
 import torch
