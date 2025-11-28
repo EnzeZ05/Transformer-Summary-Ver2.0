@@ -172,6 +172,8 @@ def main():
         torch.cuda.empty_cache()
 
     raw_datasets = load_dataset("json", data_files={"train": TRAIN_JSON})
+
+    ## you change delete .select(range(5000)) for full data access / use it just for warm up
     train_dataset = raw_datasets["train"].select(range(5000)).map(
         lambda x: preprocess_function(x, tokenizer),
         batched=True,
