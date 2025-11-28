@@ -1,8 +1,8 @@
 import os
 
-os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
-os.environ.setdefault("HF_HOME", "/root/autodl-fs/hf_cache")
-os.environ.setdefault("TRANSFORMERS_CACHE", "/root/autodl-fs/hf_cache")
+# os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
+# os.environ.setdefault("HF_HOME", "/root/autodl-fs/hf_cache")
+# os.environ.setdefault("TRANSFORMERS_CACHE", "/root/autodl-fs/hf_cache")
 
 import contextlib
 import torch
