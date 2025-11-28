@@ -13,8 +13,6 @@ A from-scratch PyTorch implementation of a GPT-2-style decoder (`ModernDecoder`)
 - `transformer.py` – handwritten GPT-2 decoder (multi-head attention + GELU MLP)
 - `train.py` – load `gpt2-large`, copy weights into `ModernDecoder`, fine-tune on `english_train.jsonl`
 - `test.py` – load `my-gpt2large-handwritten` and run summarization
-- `my-gpt2large-handwritten/` – fine-tuned weights + tokenizer
-- `english_train.jsonl`, `english_val.jsonl`, `english_test.jsonl` – JSONL summarization data
 - `requirements.txt` – dependencies
 
 ---
