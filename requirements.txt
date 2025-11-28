@@ -1,0 +1,5 @@
+torch~=2.5.1+cu121
+transformers~=4.46.3
+tqdm~=4.67.1
+datasets~=2.21.0
+sentencepiece~=0.2.1
