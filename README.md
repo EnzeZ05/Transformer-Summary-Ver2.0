@@ -2,7 +2,7 @@
 
 A project where I “dig GPT-2 Large’s brain (its weights) out” of the official Hugging Face model and plug it into my own handwritten Transformer (`ModernDecoder`), specifically, I:
 
-- load `gpt2-large` weights from Hugging Face  
+- load `gpt2-large` weights from Hugging Face to the transformer
 - train the transplanted brain on an English summarization dataset  
 - generate summaries in three decoding modes: `safe`, `balanced`, and `creative`
 
