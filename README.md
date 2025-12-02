@@ -1,6 +1,6 @@
 ## Handwritten Summarizer with Weight Transplantation and Various Text Generators
 
-A project where I “transplant GPT-2 Large’s brain (its weights) out” of the official Hugging Face model and plug it into my own handwritten Transformer (`ModernDecoder`). Specifically, I:
+Project where I “transplant GPT-2 Large’s brain (its weights) out” of the official Hugging Face model and plug it into my own handwritten Transformer (`ModernDecoder`). Specifically, I:
 
 - load `gpt2-large` weights from Hugging Face to the transformer
 - train the transplanted brain on an English summarization dataset  
